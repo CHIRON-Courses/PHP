@@ -7,7 +7,7 @@ En cryptographie, le **chiffrement par décalage**, aussi connu comme **le chiff
 Le texte chiffré s'obtient en remplaçant chaque lettre du texte clair original par une lettre à distance fixe, toujours du même côté, dans l'ordre de l'alphabet.
 Dans ses correspondances, César utilisait un décalage de 3 vers la droite, A est remplacé par D, B devient E, et ainsi de suite jusqu'à W qui devient Z. Pour les dernières lettres, on reprend au début. Donc X devient A, etc...
 
-[![image](../ressources/caesar_cipher.png)](Image du chiffre de César)
+![image](../ressources/caesar_cipher.png)
 
 ## TP
 
