@@ -11,7 +11,8 @@ A partir des chiffres de 1 à 10, le script doit remplir un tableau en 2 dimensi
 Je vous demande de me développer un programme permettant de remplir automatique un tableau HTML de 10 par 10.
 
 Le résultat que vous devez obtenir :
-[![image](../ressources/multiplication.png)](Image du résultat du tableau de multiplication)
+
+![image](../ressources/multiplication.png)
 
 ----------
 
