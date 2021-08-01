@@ -1,4 +1,4 @@
-# Projet Part I
+# Projet part I
 
 Nous nous apprêtons à en découvrir d'avantage sur le langage PHP, je vous invite à le faire en visant des objectifs fonctionnels. De ce fait, nous allons développer un projet que vous pourrez continuer par la suite, au fur et à mesure de votre apprentissage du langage PHP.
 

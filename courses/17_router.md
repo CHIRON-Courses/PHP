@@ -1,4 +1,4 @@
-# Projet Part II
+# Projet part II
 
 Maintenant que le projet est bien avancée avec l'affichage de plusieurs page distincte. Nous allons implémenter un router afin de gérer de manière plus efficace le projet.
 
@@ -26,6 +26,8 @@ Comme vous le constatez il n'est pas possible par défaut d'obtenir des url pers
 
 > Que vous utilisiez l'une ou l'autre des exécutions il nous faut activer la réécriture d'URL, c'est à dire le fait de pouvoir avoir l'url [http://localhost/user/2](http://localhost/user/2) et qu'on ne tombe pas sur une page objet non trouvé. En PHP toutes les url doivent exécuter votre script principal, votre index.php situé à la racine de votre dossier public. C'est le point d'entré de votre programme.
 
+----------
+
 ### .htaccess
 
 Pour remédier à cela nous allons, dans un fichier, donner des directives au server apache. Le fichier `.htaccess` contient ces directives.
@@ -51,6 +53,8 @@ Ce fichier donne les directives suivantes:
 -   Active le write engine.
 -   Permet que les fichiers présents sur disque soit délivrés.
 -   Réécrit toutes les url vers le fichier index.php en lui passant les paramètres d'url s'ils sont présents.
+
+----------
 
 ### [Fonctions de bufferisation de sortie](https://www.php.net/manual/fr/ref.outcontrol.php)
 
