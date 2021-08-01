@@ -1,4 +1,4 @@
-# Projet
+# Projet Part I
 
 Nous nous apprêtons à en découvrir d'avantage sur le langage PHP, je vous invite à le faire en visant des objectifs fonctionnels. De ce fait, nous allons développer un projet que vous pourrez continuer par la suite, au fur et à mesure de votre apprentissage du langage PHP.
 
@@ -39,7 +39,7 @@ Bien que nous soyons en procédural, nous suivrons comme organisation de projet 
     ├─ Controller/
     ├─ Dao/
     ├─ Model/
-    └─ View/
+    └─ view/
 
 ----------
 
@@ -50,7 +50,7 @@ L'instruction de langage include inclut et exécute le fichier spécifié. Il ne
 Les variables sont disponibles dans le fichier inclut.
 
 ```php
-include './../templates/home/home.php';
+include './../view/home.php';
 ```
 
 L'instruction du langage `require` est similaire mais il possède une valeur de retour et provoque une erreur fatale si le fichier n'est pas trouvé.
