@@ -22,4 +22,4 @@ Si ces connaissances n'ont pas été acquises au préalablement, elles devront l
 
 ## Support de cours
 
-[Sommaire](https://github.com/CHIRON-Courses/PHP/wiki)
+[Wiki](https://github.com/CHIRON-Courses/PHP/wiki)
